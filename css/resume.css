@@ -46,7 +46,7 @@ p.lead {
   font-weight: 400;
 }
 
-span {
+p>span {
   background:#94c5cc;
   padding:0;
   line-height:1.5;
