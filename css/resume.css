@@ -48,16 +48,13 @@ p.lead {
 }
 
 span {
-  color: white;
   background:#94c5cc;
   padding:0;
   line-height:1.5;
 }
 
 p {
-  display:block;
   padding:0 10px;
-  font-size:2em;
 }
 
 .subheading {
