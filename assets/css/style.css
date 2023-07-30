@@ -1,11 +1,3 @@
-/**
-* Template Name: iPortfolio
-* Updated: Jul 27 2023 with Bootstrap v5.3.1
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -241,8 +233,8 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
-  background-size: cover;
+  background: url("../img/computer-bg.jpg") top center; /*Foto de <a href="https://unsplash.com/es/@oskaryil?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Oskar Yildiz</a> en <a href="https://unsplash.com/es/fotos/cOkpTiJMGzA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*/
+  background-size: contain;
 }
 
 #hero:before {
@@ -309,10 +301,11 @@ h6 {
 section {
   padding: 60px 0;
   overflow: hidden;
+  background: #9ea7b6;
 }
 
 .section-bg {
-  background: #f5f8fd;
+  background: #7892b4;
 }
 
 .section-title {
